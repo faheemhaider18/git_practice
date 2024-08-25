@@ -1,6 +1,0 @@
-This is a dummy file.
--- Added a period
--- diff line
--- I am making changes to this file as well
--- THis is a duplicate file
-
