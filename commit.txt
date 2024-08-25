@@ -1,4 +1,3 @@
 This is a dummy file.
 -- Added a period
 -- diff line
-__ Added a new line
