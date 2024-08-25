@@ -1,4 +1,4 @@
 This is a dummy file.
 -- Added a period
 -- diff line
-This is a duplicate file
+-- This is a duplicate file
